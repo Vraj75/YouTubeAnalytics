@@ -1,0 +1,8 @@
+USvideos.csv
+Youtube Analytics Project.zip
+outputs/
+spark_checkpoints/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
